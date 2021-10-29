@@ -1,0 +1,29 @@
+*** Thông tin cá nhân ***
+  + Liên hệ: 0353.853.171
+  + FB: https://www.facebook.com/hoangtran.dev
+  + Skye: tranminhhoangnct@gmail.com
+  + Thời gian hỗ trợ: 18-24h
+  + Freelancer: Nhận thiết kế hệ thống API, Website, Mobile app theo yêu cầu
+
+*** Để tiết kiệm thời gian vui lòng tải và cài đặt các ứng dụng sau ***
+1. Visual Studio Code
+  + Link download: https://code.visualstudio.com/Download
+
+**** Có 2 cách để cài đặt
+
+----> Cách 1. Nếu bạn đã biết về Docker thì dùng cách này
+1. Docker 
+  + Link documentation: https://xuanthulab.net/gioi-thieu-ve-docker-lam-quen-voi-docker-tao-container.html
+  + Kiểm tra Docker đã cài đặt thành công hay chưa: docker --version
+
+----> Cách 2. Cài đặt thủ công
+1. NodeJS version <= 12.x
+  + node-v12.21.0-x64.msi (nếu máy 64bit) 
+  + node-v12.21.0-x86.msi (nếu máy 86bit)
+  + Link download: https://nodejs.org/dist/latest-v12.x
+2. Postgresql: version >= 11.x
+  + Link download: https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
+
+*** DỊCH VỤ THÊM ***
+  + Đưa sản phẩm lên môi trường thực tế: 500k (Chưa bao gồm chi phí mua tên miền)
+  + File word cho các bạn sinh viên nộp báo cáo: 100k
